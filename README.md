@@ -8,10 +8,10 @@ Currently I'm working exclusively with Python, but I'm always open to new horizo
 ## Currently Studying
 * Python
 * Django
-
+* MySQL
 
 ## Intend to Study
-* MySQL
+
 * MongoDB
 * Docker
 
